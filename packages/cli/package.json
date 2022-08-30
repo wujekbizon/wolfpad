@@ -1,6 +1,6 @@
 {
   "name": "wolfpad",
-  "version": "0.0.1-alpha.0",
+  "version": "0.1.0",
   "description": "",
   "publishConfig": {
     "access": "public"
@@ -17,11 +17,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@wolfpad/local-client": "^0.0.1-alpha.0"
+    "@wolfpad/local-client": "^0.1.0"
   },
   "devDependencies": {
     "@types/node": "^18.7.13",
-    "@wolfpad/local-api": "^0.0.1-alpha.0",
+    "@wolfpad/local-api": "^0.1.0",
     "commander": "^9.4.0",
     "esbuild": "^0.15.6",
     "typescript": "^4.8.2"

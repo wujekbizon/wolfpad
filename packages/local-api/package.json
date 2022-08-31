@@ -1,6 +1,6 @@
 {
   "name": "@wolfpad/local-api",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "",
   "publishConfig": {
     "access": "public"
@@ -23,9 +23,10 @@
     "typescript": "^4.8.2"
   },
   "dependencies": {
-    "@wolfpad/local-client": "^0.1.0",
+    "@wolfpad/local-client": "^1.0.0",
     "cors": "^2.8.5",
     "express": "^4.18.1",
     "http-proxy-middleware": "^2.0.6"
   }
+  
 }

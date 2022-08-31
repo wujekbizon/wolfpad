@@ -1,6 +1,0 @@
-32 error Error: Command failed: git add -- packages/local-client/package.json packages/local-client/package-lock.json packages/local-api/package.json packages/local-api/package-lock.json packages/cli/package.json packages/cli/package-lock.json lerna.json
-32 error fatal: Pathspec 'packages/local-client/package.json' is in submodule 'packages/local-client'
-32 error
-32 error     at makeError (C:\Users\Bizon\AppData\Roaming\npm\node_modules\lerna\node_modules\execa\index.js:174:9)
-32 error     at C:\Users\Bizon\AppData\Roaming\npm\node_modules\lerna\node_modules\execa\index.js:278:16
-32 error     at processTicksAndRejections (node:internal/process/task_queues:96:5)

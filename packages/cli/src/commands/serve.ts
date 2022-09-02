@@ -2,7 +2,7 @@ import path from 'path';
 import { Command } from 'commander';
 import { serve } from '@wolfpad/local-api';
 
-const isProduction = process.env.Node_ENV === 'production';
+const isProduction = process.env.NODE_ENV === 'production';
 
 export const serveCommand = new Command()
   .command('serve [filename]')
